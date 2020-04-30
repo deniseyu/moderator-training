@@ -4,30 +4,30 @@
 
 We will have two hosts on during every timeslot.
 
-Block 1: Gu & Blanca
-Block 2: Gu & Denise
-Block 3: Denise & Nikki
-Block 4: Denise & Marlena
+* Block 1: Gu & Blanca
+* Block 2: Gu & Denise
+* Block 3: Denise & Nikki
+* Block 4: Denise & Marlena
 
 Pairing means we can split up tasks into broadly two roles:
 
   1. Emcee
 
-    The Emcee stays in the main room the entire time, introducing speakers,
-    making small talk, asking questions triaged from the Q&A. Your focus is on
-    the current speaker. The emcee should also keep an eye on the Waiting Room
-    when the Stage Manager is away with the next speaker.
+  The Emcee stays in the main room the entire time, introducing speakers,
+  making small talk, asking questions triaged from the Q&A. Your focus is on
+  the current speaker. The emcee should also keep an eye on the Waiting Room
+  when the Stage Manager is away with the next speaker.
 
   2. Stage Manager
 
-    Keep an eye on the "Waiting Room" and admit people whose names match our
-    list as they turn up, so the Emcee can focus on the content.
-    The stage manager communicates with the next speaker. When speakers turn up
-    ~5 minutes before their talk time, take them into a Breakout Room with just
-    yourself, have them practice sharing their screen (important: if they are
-    planning to play a video during their talk, they have to know to tick "Share
-    Sound From Computer" when they initiate the screenshare). When all is good,
-    close down the breakout room and return to the main session with them.
+  Keep an eye on the "Waiting Room" and admit people whose names match our
+  list as they turn up, so the Emcee can focus on the content.
+  The stage manager communicates with the next speaker. When speakers turn up
+  ~5 minutes before their talk time, take them into a Breakout Room with just
+  yourself, have them practice sharing their screen (important: if they are
+  planning to play a video during their talk, they have to know to tick "Share
+  Sound From Computer" when they initiate the screenshare). When all is good,
+  close down the breakout room and return to the main session with them.
 
   Shared tasks:
 
