@@ -22,7 +22,7 @@ Nickname."
 
 This is really useful for adding pronouns!
 
-Exercise: Everyone change your nickname so your pronouns are added, e.g. "Denise
+* Exercise: Everyone change your nickname so your pronouns are added, e.g. "Denise
 (she/her)".
 
 ## Roles & Permissions overview
